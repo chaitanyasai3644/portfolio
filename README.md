@@ -1,2 +1,2 @@
 # portfolio
-this is portfolio website created by using javascript,css,html
+This is a portfolio website created by using HTML,CSS,JAVASCRIPT and also BOOTSTRAP framework.
